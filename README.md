@@ -1,3 +1,6 @@
+# hi
+
+
 *👋 Hi, I’m @curry30123
 *👀 I’m interested in playing basketball.
 *🌱 I’m currently learning computer.
