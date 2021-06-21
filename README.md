@@ -1,7 +1,7 @@
 # hi
 
 
-[Please visit my homepage](https://curry30123.github.io/curry30123.gitnub.io/)
+
 
 
 # curry30123.gitnub.io
